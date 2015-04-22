@@ -1,0 +1,8 @@
+The following are the script tags that you can use to include
+the unminified version of Hero:
+
+<script src='Hero/hero.js'></script>
+<script src='Hero/types/containers.js'></script>
+<script src='Hero/types/atoms.js'></script>
+<script src='Hero/constant/addconstanttype.js'></script>
+<script src='Hero/constant/constants.js'></script>
